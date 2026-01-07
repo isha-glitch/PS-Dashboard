@@ -29,8 +29,7 @@ This project focuses on analyzing pizza sales data to gain meaningful business i
  🎯 Improved clarity of decision-making using visual analytics
 
 📄 SQL-Based Pizza Sales Report: https://www.notion.so/PIZZA-SALES-REPORT-215f90d63ab480e29962ca0088ff7f28?source=copy_link
-- Dashboard Snapshot:
-  pizza_sales_insights_img.png
+- Dashboard Snapshot: [pizza_sales_insights_img.png](https://github.com/isha-glitch/PS-Dashboard/blob/main/pizza_sales_insights_img.png)
 
 
 
